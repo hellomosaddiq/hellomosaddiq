@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>
-        Building projects with a premium, modern look
+        Dedicated to crafting clean, modern, and premium digital experiences
       </td>
     </tr>
   </table>
@@ -42,7 +42,7 @@
   </a>
   <div style="margin-top:8px;">
     <a href="https://github.com/hellomosaddiq/nexus-new-tab" target="_blank">
-      A customizable new tab extension, built to be beautiful and powerful.
+      A customizable new tab extension, designed to be beautiful and powerful.
     </a>
   </div>
 </div>
@@ -58,5 +58,5 @@
 <br/>
 
 <p align="center" style="color:#888;">
-  <i>Always learning. Always building.</i>
+  <i>Currently learning, building, and open to new collaborations.</i>
 </p>
